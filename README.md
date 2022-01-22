@@ -1,4 +1,5 @@
 # Movie-Recommendation System
+In this project,I have build a Movie Recommendation system using Machine Learning with Python. This is one of the most important Machine Learning Projects.
 
 Enter your favourite movie name : bat man
 
